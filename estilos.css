@@ -111,3 +111,22 @@
 .cta p {
   padding: 25px;
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.contact {
+  margin-top: 100px;
+}
+
+.contact p {
+  padding: 30px;
+}
+
+footer {
+  margin-top: auto;
+}
