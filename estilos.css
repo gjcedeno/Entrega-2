@@ -159,6 +159,10 @@ body {
   margin-bottom: 5px;
 }
 
+.centered-gallery {
+  margin-top: 80px;
+}
+
 footer {
   margin-top: auto;
 }
