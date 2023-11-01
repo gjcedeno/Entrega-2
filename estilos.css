@@ -69,3 +69,12 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.box-icons i {
+  font-size: 40px;
+}
+
+.box-icons h3 {
+  font-size: 20px;
+  font-weight: 800;
+}
