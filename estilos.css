@@ -143,6 +143,22 @@ body {
   margin-bottom: 5px;
 }
 
+.servicios {
+  background-color: #eae5df;
+  height: auto;
+}
+
+.servicios h2 {
+  padding: 15px;
+  margin: 100px 0px 50px 0px;
+  font-size: 50px;
+}
+
+.servicios p {
+  padding: 15px;
+  margin-bottom: 5px;
+}
+
 footer {
   margin-top: auto;
 }
