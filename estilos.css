@@ -4,6 +4,13 @@
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
 .navbar a {
   font-weight: 600;
   font-size: 18px;
@@ -112,19 +119,28 @@
   padding: 25px;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  margin: 0;
-}
-
 .contact {
   margin-top: 100px;
 }
 
 .contact p {
   padding: 30px;
+}
+
+.nosotros {
+  background-color: #eae5df;
+  height: 100vh;
+}
+
+.nosotros h2 {
+  padding: 5px;
+  margin-bottom: 50px;
+  font-size: 50px;
+}
+
+.nosotros p {
+  padding: 10px;
+  margin-bottom: 5px;
 }
 
 footer {
