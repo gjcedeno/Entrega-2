@@ -93,3 +93,21 @@
   margin-bottom: 80px;
   background-color: #eae5df;
 }
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: 800;
+  margin-bottom: 30px;
+}
+
+.cta {
+  margin-top: 50px;
+}
+
+.cta h2 {
+  font-weight: 800;
+}
+
+.cta p {
+  padding: 25px;
+}
